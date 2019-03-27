@@ -84,3 +84,19 @@ orchestrace - process -> GenServer -> supervisor - zkusim nekolikrat
 deploy-zero downtime, update az po telefonim hovoru - hotreload
 
 phoenix - middleware, http server...
+
+### workshop
+
+
+hlavni endoint
+
+phoenix - dobre web sockety
+
+v elixiru neni dedicnost ale metaprogramy
+
+use znamena vsechny funkce jsou k dispozici z daneho modulu
+
+psani testu:
+  lehke
+  
+muzu si uz na urovni route urcit zda chci authentikaci nebo ne
