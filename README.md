@@ -46,3 +46,41 @@ editor - intelliJ
 
 ## Better React
 
+[Reason](https://reasonml.github.io/) based on [ocamel](http://www.ocaml.org/)
+
+records are imutable
+
+COBOL -> Perl -> JVM
+
+declarative - functional, patternmatching
+imperative - do this, this and this
+
+messenger v browseru byl prepsan z js do re
+
+## Elixir
+
+python doctype?
+
+metaprogramming
+
+na zacatku dobna elixir konference v Praze
+
+datovy typ atom to same jako symbol
+
+rekurze - problem zastaveni serveru spatne napsana rekurze na pamet
+
+doctest
+
+scheduler zajistuje paralelnost
+
+actor model - message communication
+
+otp open telecom platform
+
+fault tolerant
+
+orchestrace - process -> GenServer -> supervisor - zkusim nekolikrat
+
+deploy-zero downtime, update az po telefonim hovoru - hotreload
+
+phoenix - middleware, http server...
